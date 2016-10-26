@@ -1,1 +1,2 @@
-This is a simple js program for studing Microsoft Azure.
+このソースのデプロイ先は、下記です
+- http://test-imagire.azurewebsites.net/
